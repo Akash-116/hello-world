@@ -1,4 +1,4 @@
 # hello-world
-My first repository\n
+My first repository
 Name: Akash
 Age: Eighteen
